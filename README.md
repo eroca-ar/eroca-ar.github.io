@@ -1,4 +1,4 @@
-estudioroca.github.io
+eduroca.github.io
 ======================
 
 Website for Estudio Roca
